@@ -1,2 +1,2 @@
 # MakeFriends
-Basic ruby application
+Basic ruby application - FreeCodeCamp Capstone project
