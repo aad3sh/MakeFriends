@@ -1,0 +1,2 @@
+# MakeFriends
+Basic ruby application
